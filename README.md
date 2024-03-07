@@ -11,6 +11,9 @@
    ![SCCN](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/c59819b9-bf43-4b80-822e-3001b7141232)
 
 
+## 2. [Stable Cascade Inpainting ControlNet](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/Stable%20Cascade%20Inpainting%20ControlNet%E3%80%90Zho%E3%80%91.json)
+   ![SCCN2](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/5306a1d4-f634-46d0-ada7-ffef74b42ddc)
+
 
 
 
@@ -31,6 +34,10 @@
 
 
 ## 更新日志
+
+- 20240307
+
+  新增 Stable Cascade Inpainting ControlNet 工作流
 
 - 20240306
 
