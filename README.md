@@ -17,6 +17,11 @@
 ## 3.[Stable Cascade Img2Img](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/Stable%20Cascade%20Img2Img%E3%80%90Zho%E3%80%91.json)
    ![Dingtalk_20240308004442](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/4a59b45a-1166-47d3-8981-590591dfe68a)
 
+## 4.[CRM Comfy 3D](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/CRM%20Comfy%203D%E3%80%90Zho%E3%80%91.json)
+   
+   [Colab：Comfy 3D](https://colab.research.google.com/drive/17hsO4_ktv_g8-NQhMU3MCV_iXSXB3cWT?usp=sharing)
+   
+   ![C3DCOLAB](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/0c36da32-7147-44d6-b36c-c77e0d26be68)
 
 
 
@@ -36,6 +41,10 @@
 
 ## 更新日志
 
+- 20240314
+
+  新增 CRM Comfy 3D 工作流 + Comfy 3D Colab 云部署
+  
 - 20240307
 
   新增 Stable Cascade Img2Img 工作流
