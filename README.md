@@ -23,6 +23,11 @@
    
    ![C3DCOLAB](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/0c36da32-7147-44d6-b36c-c77e0d26be68)
 
+## 5.[Sketch to 3D](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/Sketch%20to%203D%E3%80%90Zho%E3%80%91.json)
+   ![Dingtalk_20240316231428](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/69c12f87-cc72-49ae-96fb-c7b4de215fa4)
+   
+   https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/153b6e8e-7567-4e2b-aa90-bc8ea3544523
+
 
 
 
@@ -40,6 +45,10 @@
 
 
 ## 更新日志
+
+- 20240316
+
+  新增 Sketch to 3D 工作流
 
 - 20240314
 
