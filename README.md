@@ -13,6 +13,7 @@
 
 ## 目录（14类 36项）
 
+- [0️⃣ ComfyUI Assistant | ComfyUI 智能助手](#0️⃣-comfyui-assistant--comfyui-智能助手)
 - [1️⃣ Stable Cascade（4）](#1️⃣-stable-cascade4)
 - [2️⃣ 3D（3）](#2️⃣-3d3)
 - [3️⃣ LLM + SD（5）](#3️⃣-llm--sd5)
@@ -29,7 +30,38 @@
 - [1️⃣4️⃣WordCloud（1）](#1️⃣4️⃣-wordcloud1)
 
 
+## 0️⃣ [ComfyUI Assistant | ComfyUI 智能助手](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs)
 
+<p align="center"><img  width="160" src="https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs/assets/140084057/6efdab80-88ad-4849-bd41-b6a546eb6c6e" alt="ComfyUI-Assistant Logo" /></p>
+
+
+- 这是我之前创建的专门用于辅助 ComfyUI 使用的 GPTs
+- 可以帮助创建、解释自定义节点或工作流
+- 上榜 GPTs 全球对话数据第 165 名（12.29数据）
+- 目前对话数已达2.5k+，ComfyUI 领域 GPTs 第一名
+- 使用教程：[【GPTs | 我专门为ComfyUI定制了一个全能助手 | 再也不用担心ComfyUI不会用了】](https://www.bilibili.com/video/BV1LC4y1E78n/?share_source=copy_web&vd_source=aa2245cc0c4c36a0387a65937847fd3c)
+- 一键直达（需订阅 ChatGPT Plus）：https://chat.openai.com/g/g-B3qi2zKGB-comfyui-assistant
+
+<details>
+<summary>展开 | Expand</summary>
+
+主界面：
+
+![image](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs/assets/140084057/746d882c-603e-42c6-9635-3c2b5f21f93c)
+
+
+使用示例：
+
+![image](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs/assets/140084057/5b383d5d-a8b3-4491-b039-9f80e0847364)
+
+
+ComfyUI 插件按钮：
+
+![image](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs/assets/140084057/1d744de1-9c98-487f-9e4e-f1583c710c6e)
+
+下载 [插件](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs) 中的 ComfyUI_Assistant.js 放到 \ComfyUI\web\extensions 中即可
+
+</details>
 
 
 ## 1️⃣ Stable Cascade（4）
@@ -368,7 +400,9 @@ https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn/assets/140084057/8e
 
 ## 更新日志
 
-- 20240316
+- 20240317
+
+  新增 ComfyUI Assistant（GPTs）智能助手内容
 
   整理我之前所有已公开的工作流，共 14 大类，36 个工作流
 
