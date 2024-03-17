@@ -28,6 +28,16 @@
    
    https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/153b6e8e-7567-4e2b-aa90-bc8ea3544523
 
+   【Sketch to 3D】使用说明：
+   
+   - 使用模型：
+      - Playground v2.5：https://huggingface.co/playgroundai/playground-v2.5-1024px-aesthetic
+      - ControlNet：https://huggingface.co/diffusers/controlnet-canny-sdxl-1.0
+
+   - 使用插件：
+      - 草图画板：https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet
+      - 背景去除：https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG
+      - TripoSR 3D生成：https://github.com/ZHO-ZHO-ZHO/ComfyUI-Flowty-TripoSR-ZHO
 
 
 
@@ -48,7 +58,7 @@
 
 - 20240316
 
-  新增 Sketch to 3D 工作流
+  新增 Sketch to 3D 工作流 + 使用说明
 
 - 20240314
 
