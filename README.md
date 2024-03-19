@@ -11,7 +11,7 @@
 
 <div align="left">
 
-## 目录（14类 36项）
+## 目录（15类 38项）
 
 - [0️⃣ ComfyUI Assistant | ComfyUI 智能助手](#0️⃣-comfyui-assistant--comfyui-智能助手)
 - [1️⃣ Stable Cascade（4）](#1️⃣-stable-cascade4)
@@ -27,7 +27,9 @@
 - [1️⃣1️⃣ I2VGenXL（2）](#1️⃣1️⃣-i2vgenxl2)
 - [1️⃣2️⃣ More Models（2）](#1️⃣2️⃣-more-models2)
 - [1️⃣3️⃣ TravelSuite-ZHO（1）](#1️⃣3️⃣-travelsuite-zho1)
-- [1️⃣4️⃣WordCloud（1）](#1️⃣4️⃣-wordcloud1)
+- [1️⃣4️⃣ WordCloud（1）](#1️⃣4️⃣-wordcloud1)
+- [1️⃣5️⃣ APISR in ComfyUI（2）](#1️⃣5️⃣-apisr-in-comfyui2)
+
 
 
 ## 0️⃣ [ComfyUI Assistant | ComfyUI 智能助手](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs)
@@ -397,8 +399,34 @@ https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn/assets/140084057/8e
 </details>
 
 
+### 1️⃣5️⃣ [APISR in ComfyUI](https://github.com/ZHO-ZHO-ZHO/ComfyUI-APISR)（2）
+
+https://github.com/ZHO-ZHO-ZHO/ComfyUI-APISR/assets/140084057/e6deb435-d276-4726-9d6d-457cc99d433e
+
+
+<details>
+<summary>展开 | Expand</summary>
+
+### 1) [V1.0 APISR img or video Batch](https://github.com/ZHO-ZHO-ZHO/ComfyUI-APISR/blob/main/APISR%20WORKFLOWS/APISR%20img%20or%20video%20Batch%E3%80%90Zho%E3%80%91.json)
+
+   ![Dingtalk_20240319200511](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/b7d69710-38f9-44a8-9443-02fde783d6bb)
+
+
+### 2) [V1.0 APISR img or video Lterative](https://github.com/ZHO-ZHO-ZHO/ComfyUI-APISR/blob/main/APISR%20WORKFLOWS/APISR%20img%20or%20video%20Lterative%E3%80%90Zho%E3%80%91.json)
+    
+   ![Dingtalk_20240319203321](https://github.com/ZHO-ZHO-ZHO/ComfyUI-APISR/assets/140084057/9ebc1153-2d68-4fa2-b24a-b7bb8ebe437a)
+
+
+
+</details>
+
+
 
 ## 更新日志
+
+- 20240319
+
+  新增 APISR in ComfyUI 动漫图像 + 视频放大双工作流
 
 - 20240317
 
