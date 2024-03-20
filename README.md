@@ -268,7 +268,7 @@ https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn/assets/140084057/8e
   ![Dingtalk_20240124232833](https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID/assets/140084057/99be9592-775d-4c33-bafc-5bd5c95a7222)
 
 
-### 2) [V2.0 自动下载 huggingface hub](https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID/blob/main/INSTANTID%20WORKFLOWS/V2.0%20InstantID_fromhub_pose_ref%E3%80%90Zho%E3%80%91.json)
+### 2) [V2.0 自动下载 Hugging Face hub](https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID/blob/main/INSTANTID%20WORKFLOWS/V2.0%20InstantID_fromhub_pose_ref%E3%80%90Zho%E3%80%91.json)
 
   ![Dingtalk_20240124230145](https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID/assets/140084057/95c4a1dd-864d-4a46-8c45-a48866aef29f)
 
@@ -304,7 +304,7 @@ https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn/assets/140084057/8e
 
 ### 4) [V2.5 本地模型 locally](https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker/blob/main/PhotoMaker%20Workflows/V2.5%20PhotoMaker_locally%E3%80%90Zho%E3%80%91.json)
 
-### 5) [V2.5 自动下载 huggingface hub](https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker/blob/main/PhotoMaker%20Workflows/V2.5%20PhotoMaker_fromhub%E3%80%90Zho%E3%80%91.json)
+### 5) [V2.5 自动下载 Hugging Face hub](https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker/blob/main/PhotoMaker%20Workflows/V2.5%20PhotoMaker_fromhub%E3%80%90Zho%E3%80%91.json)
 
 
 </details>
