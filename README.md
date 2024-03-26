@@ -11,10 +11,10 @@
 
 <div align="left">
 
-## 目录（15类 38项）
+## 目录（15类 40项）
 
 - [0️⃣ ComfyUI Assistant | ComfyUI 智能助手](#0️⃣-comfyui-assistant--comfyui-智能助手)
-- [1️⃣ Stable Cascade（4）](#1️⃣-stable-cascade4)
+- [1️⃣ Stable Cascade（6）](#1️⃣-stable-cascade6)
 - [2️⃣ 3D（3）](#2️⃣-3d3)
 - [3️⃣ LLM + SD（5）](#3️⃣-llm--sd5)
 - [4️⃣ Differential Diffusion（2）](#4️⃣-differential-diffusion2)
@@ -66,7 +66,7 @@ ComfyUI 插件按钮：
 </details>
 
 
-## 1️⃣ Stable Cascade（4）
+## 1️⃣ Stable Cascade（6）
 
 ![Dingtalk_20240317192159](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/d87ef742-5250-4bfd-92d1-27d4a373aa82)
 
@@ -79,18 +79,27 @@ ComfyUI 插件按钮：
    ![Dingtalk_20240317182319](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/7865009d-227d-4912-91f8-6a8a03f61c0b)
 
 
-### 1) [Stable Cascade Canny ControlNet](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/Stable%20Cascade%20Canny%20ControlNet%E3%80%90Zho%E3%80%91.json)
+### 2) [Stable Cascade Canny ControlNet](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/Stable%20Cascade%20Canny%20ControlNet%E3%80%90Zho%E3%80%91.json)
 
    ![SCCN](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/c59819b9-bf43-4b80-822e-3001b7141232)
 
 
-### 2) [Stable Cascade Inpainting ControlNet](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/Stable%20Cascade%20Inpainting%20ControlNet%E3%80%90Zho%E3%80%91.json)
+### 3) [Stable Cascade Inpainting ControlNet](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/Stable%20Cascade%20Inpainting%20ControlNet%E3%80%90Zho%E3%80%91.json)
 
    ![SCCN2](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/5306a1d4-f634-46d0-ada7-ffef74b42ddc)
 
-### 3) [Stable Cascade Img2Img](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/Stable%20Cascade%20Img2Img%E3%80%90Zho%E3%80%91.json)
+### 4) [Stable Cascade Img2Img](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/Stable%20Cascade%20Img2Img%E3%80%90Zho%E3%80%91.json)
 
    ![Dingtalk_20240308004442](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/4a59b45a-1166-47d3-8981-590591dfe68a)
+
+### 5) [Stable Cascade ImagePrompt Standard](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/Stable%20Cascade%20ImagePrompt%20Standard%E3%80%90Zho%E3%80%91.json)
+
+   ![Dingtalk_20240326235311](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/bff4baa8-114c-4ac2-acc4-07a76647cd29)
+
+### 6) [Stable Cascade ImagePrompt Mix](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/Stable%20Cascade%20ImagePrompt%20Mix%E3%80%90Zho%E3%80%91.json)
+
+   ![Dingtalk_20240327004040](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/fd2d1048-241d-4956-a472-0fa42fd39c02)
+
 
 </details>
 
@@ -423,6 +432,10 @@ https://github.com/ZHO-ZHO-ZHO/ComfyUI-APISR/assets/140084057/e6deb435-d276-4726
 
 
 ## 更新日志
+
+- 20240327
+
+  新增 Stable Cascade ImagePrompt 双工作流
 
 - 20240319
 
