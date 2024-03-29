@@ -11,7 +11,7 @@
 
 <div align="left">
 
-## 目录（15类 40项）
+## 目录（16类 41项）
 
 - [0️⃣ ComfyUI Assistant | ComfyUI 智能助手](#0️⃣-comfyui-assistant--comfyui-智能助手)
 - [1️⃣ Stable Cascade（6）](#1️⃣-stable-cascade6)
@@ -29,7 +29,7 @@
 - [1️⃣3️⃣ TravelSuite-ZHO（1）](#1️⃣3️⃣-travelsuite-zho1)
 - [1️⃣4️⃣ WordCloud（1）](#1️⃣4️⃣-wordcloud1)
 - [1️⃣5️⃣ APISR in ComfyUI（2）](#1️⃣5️⃣-apisr-in-comfyui2)
-
+- [1️⃣6️⃣ SDXS（1）](#1️⃣6️⃣-sdxs1)
 
 
 ## 0️⃣ [ComfyUI Assistant | ComfyUI 智能助手](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs)
@@ -430,9 +430,30 @@ https://github.com/ZHO-ZHO-ZHO/ComfyUI-APISR/assets/140084057/e6deb435-d276-4726
 </details>
 
 
+### 1️⃣6️⃣ SDXS（1）
+
+![Dingtalk_20240330013549](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/542b0364-3516-49a5-9c39-7865c72a4950)
+
+
+<details>
+<summary>展开 | Expand</summary>
+
+### 1) [SDXS-512-0.9](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/SDXS-512-0.9%E3%80%90Zho%E3%80%91.json)
+
+   ![Dingtalk_20240330012316](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/67b459ff-f939-451d-b972-9f65f43bf561)
+
+
+</details>
+
+
+
 
 ## 更新日志
 
+- 20240330
+
+  新增 SDXS-512-0.9 工作流
+  
 - 20240327
 
   新增 Stable Cascade ImagePrompt 双工作流
