@@ -11,6 +11,20 @@
 
 <div align="left">
 
+
+## 关于我
+
+[-Zho-](https://jike.city/zho)
+
+<details>
+<summary>展开 | Expand</summary>
+
+![Dingtalk_20240329183235](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/ea28ec1f-7b50-4fe5-bd31-2db0fe4ef573)
+
+
+</details>
+
+
 ## 目录（16类 41项）
 
 - [0️⃣ ComfyUI Assistant | ComfyUI 智能助手](#0️⃣-comfyui-assistant--comfyui-智能助手)
@@ -450,6 +464,10 @@ https://github.com/ZHO-ZHO-ZHO/ComfyUI-APISR/assets/140084057/e6deb435-d276-4726
 
 ## 更新日志
 
+- 20240331
+
+  新增 关于我 + 个人项目页
+  
 - 20240330
 
   新增 SDXS-512-0.9 工作流
