@@ -44,6 +44,7 @@
 - [1️⃣4️⃣ WordCloud（1）](#1️⃣4️⃣-wordcloud1)
 - [1️⃣5️⃣ APISR in ComfyUI（2）](#1️⃣5️⃣-apisr-in-comfyui2)
 - [1️⃣6️⃣ SDXS（1）](#1️⃣6️⃣-sdxs1)
+- [1️⃣7️⃣ CosXL & CosXL Edit（1）](#1️⃣7️⃣-cosxl--cosxl-edit1)
 
 
 ## 0️⃣ [ComfyUI Assistant | ComfyUI 智能助手](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs)
@@ -461,8 +462,31 @@ https://github.com/ZHO-ZHO-ZHO/ComfyUI-APISR/assets/140084057/e6deb435-d276-4726
 
 
 
+### 1️⃣7️⃣ CosXL & CosXL Edit（1）
+
+
+![Dingtalk_20240409181552](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/e26c2943-205f-4f36-a1d4-cd9f9032c6ac)
+
+
+<details>
+<summary>展开 | Expand</summary>
+
+### 1) [CosXL Edit + ArtGallery 1.0](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/CosXL%20Edit%20%2B%20ArtGallery%201.0%E3%80%90Zho%E3%80%91.json)
+
+   ![Dingtalk_20240409185918](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/ee6784de-be90-4e7d-b867-335b1af7c2fd)
+
+
+
+</details>
+
+
+
 
 ## 更新日志
+
+- 20240409
+
+  新增 CosXL Edit + ArtGallery 1.0 工作流
 
 - 20240331
 
