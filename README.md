@@ -25,7 +25,7 @@
 </details>
 
 
-## 目录（16类 41项）
+## 目录（17类 42项）
 
 - [0️⃣ ComfyUI Assistant | ComfyUI 智能助手](#0️⃣-comfyui-assistant--comfyui-智能助手)
 - [1️⃣ Stable Cascade（6）](#1️⃣-stable-cascade6)
