@@ -25,12 +25,12 @@
 </details>
 
 
-## 目录（17类 42项）
+## 目录（17类 43项）
 
 - [0️⃣ ComfyUI Assistant | ComfyUI 智能助手](#0️⃣-comfyui-assistant--comfyui-智能助手)
 - [1️⃣ Stable Cascade（6）](#1️⃣-stable-cascade6)
 - [2️⃣ 3D（3）](#2️⃣-3d3)
-- [3️⃣ LLM + SD（5）](#3️⃣-llm--sd5)
+- [3️⃣ LLM + SD（6）](#3️⃣-llm--sd6)
 - [4️⃣ Differential Diffusion（2）](#4️⃣-differential-diffusion2)
 - [5️⃣ YoloWorld-EfficientSAM（2）](#5️⃣-yoloworld-efficientsam2)
 - [6️⃣ Portrait Master 简体中文版（4）](#6️⃣-portrait-master-简体中文版4)
@@ -161,7 +161,7 @@ ComfyUI 插件按钮：
 </details>
 
 
-## 3️⃣ LLM + SD（5）
+## 3️⃣ LLM + SD（6）
 
 ![Dingtalk_20240130191521](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Qwen-VL-API/assets/140084057/5d10adba-90a6-48e0-94de-33d10b5d32f9)
 
@@ -188,6 +188,10 @@ ComfyUI 插件按钮：
 ### 5) [All-in-One LoRa Training](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini/blob/main/Gemini_workflows/All-in-One%20LoRa%20Training%E3%80%90Zho%E3%80%91.json)
 
    https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini/assets/140084057/d461f656-6888-48a8-b4f8-b70b7e46504d
+
+### 6) [Gemini 1.5 Pro + Stable Diffusion + ComfyUI = DALL·3](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini/blob/main/Gemini_workflows/Gemini%201.5%20Pro%20%2B%20Stable%20Diffusion%20%2B%20ComfyUI%20%3D%20DALL%C2%B73%20%E3%80%90Zho%E3%80%91.json)
+
+   ![Dingtalk_20240411195451](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/fa6a620f-dbc2-44cc-8271-9cecf3dabcb7)
 
 
 </details>
@@ -483,6 +487,10 @@ https://github.com/ZHO-ZHO-ZHO/ComfyUI-APISR/assets/140084057/e6deb435-d276-4726
 
 
 ## 更新日志
+
+- 20240411
+
+  新增 Gemini 1.5 Pro + Stable Diffusion + ComfyUI = DALL·3 （平替 DALL·3）工作流
 
 - 20240409
 
