@@ -14,10 +14,24 @@
 
 ## 关于我
 
-[-Zho-](https://jike.city/zho)
+🔗 **社交媒体**：
+- 个人页：[-Zho-](https://jike.city/zho)
+- Bilibili：[我的B站主页](https://space.bilibili.com/484366804)
+- X（Twitter）：[我的Twitter](https://twitter.com/ZHOZHO672070)
+- 小红书：[我的小红书主页](https://www.xiaohongshu.com/user/profile/63f11530000000001001e0c8?xhsshare=CopyLink&appuid=63f11530000000001001e0c8&apptime=1690528872)
+
+📬 **联系我**：
+- 邮箱：zhozho3965@gmail.com
+- QQ 群：839821928
+
+💡 **支持我**：
+- B站：[B站充电](https://space.bilibili.com/484366804)
+- 爱发电：[为我充电](https://afdian.net/a/ZHOZHO)
+
 
 <details>
 <summary>展开 | Expand</summary>
+
 
 ![Dingtalk_20240329183235](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/ea28ec1f-7b50-4fe5-bd31-2db0fe4ef573)
 
