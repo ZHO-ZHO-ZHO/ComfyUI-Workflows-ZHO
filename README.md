@@ -25,7 +25,7 @@
 </details>
 
 
-## 目录（17类 43项）
+## 目录（18类 44项）
 
 - [0️⃣ ComfyUI Assistant | ComfyUI 智能助手](#0️⃣-comfyui-assistant--comfyui-智能助手)
 - [1️⃣ Stable Cascade（6）](#1️⃣-stable-cascade6)
@@ -45,6 +45,8 @@
 - [1️⃣5️⃣ APISR in ComfyUI（2）](#1️⃣5️⃣-apisr-in-comfyui2)
 - [1️⃣6️⃣ SDXS（1）](#1️⃣6️⃣-sdxs1)
 - [1️⃣7️⃣ CosXL & CosXL Edit（1）](#1️⃣7️⃣-cosxl--cosxl-edit1)
+- [1️⃣8️⃣ Stable Diffusion 3 API（1）](#1️⃣8️⃣-stable-diffusion-3-api1)
+
 
 
 ## 0️⃣ [ComfyUI Assistant | ComfyUI 智能助手](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs)
@@ -485,8 +487,32 @@ https://github.com/ZHO-ZHO-ZHO/ComfyUI-APISR/assets/140084057/e6deb435-d276-4726
 
 
 
+### 1️⃣8️⃣ Stable Diffusion 3 API（1）
+
+
+![ComfyUI_temp_xcgvh_00014_](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/3fe83a0c-d529-4573-8ca2-335fd63582e7)
+
+
+
+<details>
+<summary>展开 | Expand</summary>
+
+### 1) [V1.0 SD3 API](https://github.com/ZHO-ZHO-ZHO/ComfyUI-StableDiffusion3-API/blob/main/SD3%20WORKFLOWS/V1.0%20SD3%E3%80%90Zho%E3%80%91.json)
+
+   ![Dingtalk_20240418031914](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/8381dd2b-46f6-484c-98f5-08b6c609c673)
+
+
+
+</details>
+
+
+
 
 ## 更新日志
+
+- 20240418
+
+  新增 Stable Diffusion 3 API 工作流
 
 - 20240411
 
