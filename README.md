@@ -39,7 +39,7 @@
 </details>
 
 
-## 目录（18类 44项）
+## 目录（19类 46项）
 
 - [0️⃣ ComfyUI Assistant | ComfyUI 智能助手](#0️⃣-comfyui-assistant--comfyui-智能助手)
 - [1️⃣ Stable Cascade（6）](#1️⃣-stable-cascade6)
@@ -60,6 +60,7 @@
 - [1️⃣6️⃣ SDXS（1）](#1️⃣6️⃣-sdxs1)
 - [1️⃣7️⃣ CosXL & CosXL Edit（1）](#1️⃣7️⃣-cosxl--cosxl-edit1)
 - [1️⃣8️⃣ Stable Diffusion 3 API（1）](#1️⃣8️⃣-stable-diffusion-3-api1)
+- [1️⃣9️⃣ Phi-3-mini in ComfyUI（2）](#1️⃣9️⃣-phi-3-mini-in-comfyui2)
 
 
 
@@ -521,8 +522,37 @@ https://github.com/ZHO-ZHO-ZHO/ComfyUI-APISR/assets/140084057/e6deb435-d276-4726
 
 
 
+### 1️⃣9️⃣ Phi-3-mini in ComfyUI（2）
+
+
+![Dingtalk_20240426231537](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/e7da1207-07cc-4a9f-863e-002e92ca632c)
+
+
+
+<details>
+<summary>展开 | Expand</summary>
+
+
+### 1) [Phi-3-mini-4k + CosXL【Zho】](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Phi-3-mini/blob/main/Phi-3-min%20Workflows/Phi-3-mini-4k%20%2B%20CosXL%E3%80%90Zho%E3%80%91.json)
+
+  ![Dingtalk_20240426223015](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Phi-3-mini/assets/140084057/ed87e255-2716-4de3-8659-654ef69dbbf1)
+
+### 2) [Phi-3-mini-4k Chat【Zho】](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Phi-3-mini/blob/main/Phi-3-min%20Workflows/Phi-3-mini-4k%20Chat%E3%80%90Zho%E3%80%91.json)
+
+  ![Dingtalk_20240426211605](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Phi-3-mini/assets/140084057/e98252f6-39e3-4b6b-832b-c170dc2f7923)
+
+
+
+</details>
+
+
+
 
 ## 更新日志
+
+- 20240426
+
+  新增 Phi-3-mini in ComfyUI 双工作流
 
 - 20240418
 
