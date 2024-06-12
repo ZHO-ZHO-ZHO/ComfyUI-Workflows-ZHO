@@ -61,8 +61,14 @@
    ![screenshot-20240612-233349](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/b61fe82a-4ba5-4059-8490-19e963ef50b8)
 
 
+   [SD3 Medium + 肖像大师（中文版）](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/SD3%20Medium%20%2B%20%E8%82%96%E5%83%8F%E5%A4%A7%E5%B8%88%EF%BC%88%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89%E3%80%90Zho%E3%80%91.json)
 
-## 目录（19类 46项）
+   ![screenshot-20240613-010917](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/1685f11b-5646-424e-a856-3c8cf862411a)
+
+   
+
+
+## 目录（20类 50项）
 
 - [0️⃣ ComfyUI Assistant | ComfyUI 智能助手](#0️⃣-comfyui-assistant--comfyui-智能助手)
 - [1️⃣ Stable Cascade（6）](#1️⃣-stable-cascade6)
