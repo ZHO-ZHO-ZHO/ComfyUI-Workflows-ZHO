@@ -51,6 +51,10 @@
 
    [SD3 Medium Base 工作流](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/SD3%20BASE%201.0%E3%80%90Zho%E3%80%91.json)
 
+
+   ![screenshot-20240612-225247](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/dd2969c9-7112-4fd2-ae3d-89ccb725e984)
+
+
    [SD3 Medium 是否融合文本编码器的对比](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/SD3%E6%98%AF%E5%90%A6%E5%86%85%E7%BD%AE%E6%96%87%E6%9C%AC%E7%BC%96%E7%A0%81%E5%99%A8%E7%9A%84%E5%AF%B9%E6%AF%94%E3%80%90Zho%E3%80%91.json)
 
 
