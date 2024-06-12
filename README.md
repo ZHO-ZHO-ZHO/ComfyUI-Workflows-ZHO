@@ -43,19 +43,23 @@
    ![ComfyUI_temp_irkjs_00003_](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/74158dbc-404b-440b-ac44-ae143b83f22d)
 
 
-   ![screenshot-20240612-214836](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/2d195f6f-6ad6-4449-96f7-a82f99e8cce1)
-
-
    [COLAB 云部署](https://colab.research.google.com/drive/1pcr1otfG5hs5N7IqpwZdxcj4EbbYF7ot?usp=sharing)
 
 
    [SD3 Medium Base 工作流](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/SD3%20BASE%201.0%E3%80%90Zho%E3%80%91.json)
 
+   ![screenshot-20240612-214836](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/2d195f6f-6ad6-4449-96f7-a82f99e8cce1)
+
+
+   [SD3 Medium 是否融合文本编码器的对比](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/SD3%E6%98%AF%E5%90%A6%E5%86%85%E7%BD%AE%E6%96%87%E6%9C%AC%E7%BC%96%E7%A0%81%E5%99%A8%E7%9A%84%E5%AF%B9%E6%AF%94%E3%80%90Zho%E3%80%91.json)
 
    ![screenshot-20240612-225247](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/dd2969c9-7112-4fd2-ae3d-89ccb725e984)
 
 
-   [SD3 Medium 是否融合文本编码器的对比](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/SD3%E6%98%AF%E5%90%A6%E5%86%85%E7%BD%AE%E6%96%87%E6%9C%AC%E7%BC%96%E7%A0%81%E5%99%A8%E7%9A%84%E5%AF%B9%E6%AF%94%E3%80%90Zho%E3%80%91.json)
+   [SD3 Medium + Qwen2](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/SD3%20Medium%20%2B%20Qwen2%20%E3%80%90Zho%E3%80%91.json)
+
+   ![screenshot-20240612-233349](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/b61fe82a-4ba5-4059-8490-19e963ef50b8)
+
 
 
 ## 目录（19类 46项）
