@@ -1,4 +1,3 @@
-![screenshot-20240612-214104](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/db3c3b64-f30d-4a46-8047-8768a3593373)
 ![工作流合集封面](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/9127e40b-4014-49f0-a1e6-738f0dab0572)
 
 
@@ -47,7 +46,10 @@
    ![screenshot-20240612-214836](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/2d195f6f-6ad6-4449-96f7-a82f99e8cce1)
 
 
-   [SD3 Medium Base](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/SD3%20BASE%201.0%E3%80%90Zho%E3%80%91.json)
+   [COLAB 云部署](https://colab.research.google.com/drive/1pcr1otfG5hs5N7IqpwZdxcj4EbbYF7ot?usp=sharing)
+
+
+   [SD3 Medium Base 工作流](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/SD3%20BASE%201.0%E3%80%90Zho%E3%80%91.json)
 
 
 ## 目录（19类 46项）
