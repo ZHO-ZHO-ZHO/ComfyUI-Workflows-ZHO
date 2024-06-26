@@ -38,7 +38,7 @@
 </details>
 
 
-## 全新 SD3 Medium 
+## 2️⃣0️⃣ 全新 SD3 Medium 
 
    ![ComfyUI_temp_irkjs_00003_](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/74158dbc-404b-440b-ac44-ae143b83f22d)
 
@@ -90,7 +90,7 @@
 - [1️⃣7️⃣ CosXL & CosXL Edit（1）](#1️⃣7️⃣-cosxl--cosxl-edit1)
 - [1️⃣8️⃣ Stable Diffusion 3 API（1）](#1️⃣8️⃣-stable-diffusion-3-api1)
 - [1️⃣9️⃣ Phi-3-mini in ComfyUI（2）](#1️⃣9️⃣-phi-3-mini-in-comfyui2)
-
+- [2️⃣0️⃣ 全新 SD3 Medium](#2️⃣0️⃣-全新-sd3-medium)
 
 
 ## 0️⃣ [ComfyUI Assistant | ComfyUI 智能助手](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs)
