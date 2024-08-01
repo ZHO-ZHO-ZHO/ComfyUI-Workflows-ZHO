@@ -38,32 +38,16 @@
 </details>
 
 
-## 2️⃣0️⃣ 全新 SD3 Medium 
+## 2️⃣1️⃣ 全新 FLUX.1 DEV & SCHNELL 
 
-   ![ComfyUI_temp_irkjs_00003_](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/74158dbc-404b-440b-ac44-ae143b83f22d)
-
-
-   [COLAB 云部署](https://colab.research.google.com/drive/1pcr1otfG5hs5N7IqpwZdxcj4EbbYF7ot?usp=sharing)
-
-
-   [SD3 Medium Base 工作流](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/SD3%20BASE%201.0%E3%80%90Zho%E3%80%91.json)
-
-   ![screenshot-20240612-214836](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/2d195f6f-6ad6-4449-96f7-a82f99e8cce1)
+   [FLUX.1 DEV 1.0](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/FLUX.1%20DEV%201.0%E3%80%90Zho%E3%80%91.json)
+   
+   ![screenshot-20240802-034345](https://github.com/user-attachments/assets/0e5eddbf-57ae-4972-b4f1-5054f7ffdc76)
 
 
-   [SD3 Medium 是否融合文本编码器的对比](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/SD3%E6%98%AF%E5%90%A6%E5%86%85%E7%BD%AE%E6%96%87%E6%9C%AC%E7%BC%96%E7%A0%81%E5%99%A8%E7%9A%84%E5%AF%B9%E6%AF%94%E3%80%90Zho%E3%80%91.json)
+   [FLUX.1 SCHNELL 1.0](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/FLUX.1%20SCHNELL%201.0%E3%80%90Zho%E3%80%91.json)
 
-   ![screenshot-20240612-225247](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/dd2969c9-7112-4fd2-ae3d-89ccb725e984)
-
-
-   [SD3 Medium + Qwen2](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/SD3%20Medium%20%2B%20Qwen2%20%E3%80%90Zho%E3%80%91.json)
-
-   ![screenshot-20240612-233349](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/b61fe82a-4ba5-4059-8490-19e963ef50b8)
-
-
-   [SD3 Medium + 肖像大师（中文版）](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/SD3%20Medium%20%2B%20%E8%82%96%E5%83%8F%E5%A4%A7%E5%B8%88%EF%BC%88%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89%E3%80%90Zho%E3%80%91.json)
-
-   ![screenshot-20240613-010917](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/1685f11b-5646-424e-a856-3c8cf862411a)
+   ![screenshot-20240802-035720](https://github.com/user-attachments/assets/4ad39437-54d4-4d1a-accf-0034e81fcba0)
 
    
 
@@ -90,7 +74,8 @@
 - [1️⃣7️⃣ CosXL & CosXL Edit（1）](#1️⃣7️⃣-cosxl--cosxl-edit1)
 - [1️⃣8️⃣ Stable Diffusion 3 API（1）](#1️⃣8️⃣-stable-diffusion-3-api1)
 - [1️⃣9️⃣ Phi-3-mini in ComfyUI（2）](#1️⃣9️⃣-phi-3-mini-in-comfyui2)
-- [2️⃣0️⃣ 全新 SD3 Medium](#2️⃣0️⃣-全新-sd3-medium)
+- [2️⃣0️⃣ 全新 SD3 Medium（5）](#2️⃣0️⃣-全新-sd3-medium5)
+- [2️⃣1️⃣ 全新 FLUX.1 DEV & SCHNELL](#2️⃣1️⃣-全新-flux1-dev--schnell)
 
 
 ## 0️⃣ [ComfyUI Assistant | ComfyUI 智能助手](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs)
@@ -576,8 +561,55 @@ https://github.com/ZHO-ZHO-ZHO/ComfyUI-APISR/assets/140084057/e6deb435-d276-4726
 
 
 
+## 2️⃣0️⃣ 全新 SD3 Medium（5）
+
+
+   ![ComfyUI_temp_irkjs_00003_](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/74158dbc-404b-440b-ac44-ae143b83f22d)
+
+
+<details>
+<summary>展开 | Expand</summary>
+
+   
+### 1) [COLAB 云部署](https://colab.research.google.com/drive/1pcr1otfG5hs5N7IqpwZdxcj4EbbYF7ot?usp=sharing)
+
+   ![screenshot-20240802-034640](https://github.com/user-attachments/assets/36a90b3e-ca3c-47bd-9700-6ebda52c1e84)
+
+
+### 2) [SD3 Medium Base 工作流](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/SD3%20BASE%201.0%E3%80%90Zho%E3%80%91.json)
+
+   ![screenshot-20240612-214836](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/2d195f6f-6ad6-4449-96f7-a82f99e8cce1)
+
+
+### 3) [SD3 Medium 是否融合文本编码器的对比](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/SD3%E6%98%AF%E5%90%A6%E5%86%85%E7%BD%AE%E6%96%87%E6%9C%AC%E7%BC%96%E7%A0%81%E5%99%A8%E7%9A%84%E5%AF%B9%E6%AF%94%E3%80%90Zho%E3%80%91.json)
+
+   ![screenshot-20240612-225247](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/dd2969c9-7112-4fd2-ae3d-89ccb725e984)
+
+
+### 4) [SD3 Medium + Qwen2](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/SD3%20Medium%20%2B%20Qwen2%20%E3%80%90Zho%E3%80%91.json)
+
+   ![screenshot-20240612-233349](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/b61fe82a-4ba5-4059-8490-19e963ef50b8)
+
+
+### 5) [SD3 Medium + 肖像大师（中文版）](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/SD3%20Medium%20%2B%20%E8%82%96%E5%83%8F%E5%A4%A7%E5%B8%88%EF%BC%88%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89%E3%80%90Zho%E3%80%91.json)
+
+   ![screenshot-20240613-010917](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/assets/140084057/1685f11b-5646-424e-a856-3c8cf862411a)
+
+
+</details>
+
+
+
 
 ## 更新日志
+
+- 20240802
+
+  新增 FLUX.1 DEV + SCHNELL 双工作流
+
+- 20240612
+
+  新增 SD3 Medium 工作流 + Colab 云部署
 
 - 20240426
 
