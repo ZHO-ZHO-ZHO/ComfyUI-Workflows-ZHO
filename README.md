@@ -37,8 +37,19 @@
 
 </details>
 
+## 2️⃣2️⃣ LivePortrait Animals
 
-## 2️⃣1️⃣ 全新 FLUX.1 DEV & SCHNELL 
+   [LivePortrait Animals 1.0](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/LivePortrait%20Animals%201.0%E3%80%90Zho%E3%80%91.json)
+
+   
+   https://github.com/user-attachments/assets/0ab74d4c-57b5-4934-852d-05c85faf2eeb
+
+
+   ![screenshot-20240806-013326](https://github.com/user-attachments/assets/61e66625-4eb7-44e2-9c4b-175034d0a9c9)
+
+
+
+## 2️⃣1️⃣ 全新 FLUX.1 DEV & SCHNELL
 
    [FLUX.1 DEV 1.0](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/FLUX.1%20DEV%201.0%E3%80%90Zho%E3%80%91.json)
    
@@ -76,6 +87,7 @@
 - [1️⃣9️⃣ Phi-3-mini in ComfyUI（2）](#1️⃣9️⃣-phi-3-mini-in-comfyui2)
 - [2️⃣0️⃣ 全新 SD3 Medium（5）](#2️⃣0️⃣-全新-sd3-medium5)
 - [2️⃣1️⃣ 全新 FLUX.1 DEV & SCHNELL](#2️⃣1️⃣-全新-flux1-dev--schnell)
+- [2️⃣2️⃣ LivePortrait Animals](#2️⃣2️⃣-liveportrait-animals)
 
 
 ## 0️⃣ [ComfyUI Assistant | ComfyUI 智能助手](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs)
@@ -602,6 +614,10 @@ https://github.com/ZHO-ZHO-ZHO/ComfyUI-APISR/assets/140084057/e6deb435-d276-4726
 
 
 ## 更新日志
+
+- 20240806
+
+  新增 LivePortrait Animals 1.0 工作流
 
 - 20240802
 
