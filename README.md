@@ -16,7 +16,7 @@
 🔗 **社交媒体**：
 - 个人页：[-Zho-](https://jike.city/zho)
 - Bilibili：[我的B站主页](https://space.bilibili.com/484366804)
-- X（Twitter）：[我的Twitter](https://twitter.com/ZHOZHO672070)
+- X（Twitter）：[我的Twitter](https://twitter.com/ZHO_ZHO_ZHO)
 - 小红书：[我的小红书主页](https://www.xiaohongshu.com/user/profile/63f11530000000001001e0c8?xhsshare=CopyLink&appuid=63f11530000000001001e0c8&apptime=1690528872)
 
 📬 **联系我**：
