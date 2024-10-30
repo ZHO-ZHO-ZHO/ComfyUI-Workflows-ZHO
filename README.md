@@ -63,7 +63,7 @@
    
 
 
-## 目录（20类 50项）
+## 目录（22类 54项）
 
 - [0️⃣ ComfyUI Assistant | ComfyUI 智能助手](#0️⃣-comfyui-assistant--comfyui-智能助手)
 - [1️⃣ Stable Cascade（6）](#1️⃣-stable-cascade6)
